@@ -1,4 +1,4 @@
-# Winc Front-End Development Projects
+# Front-End Development Projects
 
 ## 1. JavaScript Basics: [Matching App](https://github.com/anjaligroen/winc-javascript-basics)
 Developed a program that collects user input and matches profiles based on gender, age, and location using loops and conditional logic.  
@@ -15,7 +15,7 @@ A responsive multi-page React app styled with Chakra UI, demonstrating my skills
 
 ---
 
-# Winc Front-End Assignments
+# Front-End Assignments
 
 ## 1. CSS Advanced: [Frontend Mentor Challenge](https://github.com/anjaligroen/winc-css-advanced)
 Submitted a [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges) in which I recreated one of their designs.  
